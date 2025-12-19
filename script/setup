@@ -178,7 +178,7 @@ EOF
         echo -e "${DASH_LINE}"
         
         # Execute the remote script
-        wget 
+        wget https://raw.githubusercontent.com/YulSPT0/google-idx-minecraft-server-maker/refs/heads/main/script/script
         bash script
         
         echo -e "\n${DASH_LINE}"
